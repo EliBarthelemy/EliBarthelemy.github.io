@@ -24,6 +24,7 @@ h1 {
     color: white;
     flex: 1;
     margin: 0;
+    margin-left: 15px;
 }
 #nav-ul {
     list-style-image: none;
@@ -35,6 +36,7 @@ h1 {
 a {
     text-decoration: none;
     color: #fff;
+    margin-right: 50px;
 }
 
 /* main container area beneath menu */
@@ -74,7 +76,7 @@ h2, h3 {
 }
 
 #portfolio li {
-    background: #fff;
+    background: #ffffff;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
